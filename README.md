@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **python,wordpress etc**
 
-- 📫 How to reach me **abdullah.bsit9292@iiu.edu.pk**
+- 📫 How to reach me **abdullah.bsit929@iiu.edu.pk**
 
 - ⚡ Fun fact **I talk alot**
 
