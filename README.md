@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Haroon</h1>
-<h3 align="center">A passionate Data analyst from Pakistan</h3>
+<h3 align="center">A community Builder and AI engineer</h3>
 
 <img align="right" alt=coding width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab2030909&label=Profile%20views&color=0e75b6&style=flat" alt="ab2030909" /> </p>
 
-- 🔭 I’m currently working on **Data analytics project.**
+- 🔭 I’m currently working on **CLoud, ML and analytics project.**
 
-- 🌱 I’m currently learning **Data science and ML**
+- 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **python,wordpress etc**
+- 💬 Ask me about **Agentic AI, Community Building  etc**
 
-- 📫 How to reach me **abdullah.bsit929@iiu.edu.pk**
+- 📫 How to reach me **abdullah.bsit929@iiu.edu.pk / ab408408@gmail.com**
 
 - ⚡ Fun fact **I talk alot**
 
